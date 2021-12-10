@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Aulas Node Js",
+            "database": "ecommerce",
+            "username": "root",
+            "password": "renan"
+        }
+    ]
+}
